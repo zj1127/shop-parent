@@ -7,15 +7,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="shop-commons" />
+        <module name="shop-consumer" />
+        <module name="shop-freemaker" />
         <module name="shop-manager-dao" />
         <module name="shop-manager-interface" />
         <module name="shop-manager-pojo" />
         <module name="shop-manager-service" />
         <module name="shop-manager-web" />
+        <module name="shop-portal-dao" />
+        <module name="shop-portal-interface" />
+        <module name="shop-portal-pojo" />
+        <module name="shop-portal-service" />
+        <module name="shop-portal-web" />
+        <module name="shop-provide" />
+        <module name="shop-search-dao" />
+        <module name="shop-search-interface" />
+        <module name="shop-search-pojo" />
+        <module name="shop-search-service" />
+        <module name="shop-search-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="shop-commons" target="1.8" />
+      <module name="shop-consumer" target="1.8" />
+      <module name="shop-freemaker" target="1.8" />
       <module name="shop-manager" target="1.8" />
       <module name="shop-manager-dao" target="1.8" />
       <module name="shop-manager-interface" target="1.8" />
@@ -23,6 +38,20 @@
       <module name="shop-manager-service" target="1.8" />
       <module name="shop-manager-web" target="1.8" />
       <module name="shop-parent" target="1.8" />
+      <module name="shop-portal" target="1.8" />
+      <module name="shop-portal-dao" target="1.8" />
+      <module name="shop-portal-interface" target="1.8" />
+      <module name="shop-portal-pojo" target="1.8" />
+      <module name="shop-portal-service" target="1.8" />
+      <module name="shop-portal-web" target="1.8" />
+      <module name="shop-provide" target="1.8" />
+      <module name="shop-provider" target="1.8" />
+      <module name="shop-search" target="1.8" />
+      <module name="shop-search-dao" target="1.8" />
+      <module name="shop-search-interface" target="1.8" />
+      <module name="shop-search-pojo" target="1.8" />
+      <module name="shop-search-service" target="1.8" />
+      <module name="shop-search-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

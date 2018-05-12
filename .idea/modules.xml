@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../shop-commons/shop-commons.iml" filepath="$PROJECT_DIR$/../shop-commons/shop-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-consumer/shop-consumer.iml" filepath="$PROJECT_DIR$/../shop-consumer/shop-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-freemaker/shop-freemaker.iml" filepath="$PROJECT_DIR$/../shop-freemaker/shop-freemaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-manager/shop-manager.iml" filepath="$PROJECT_DIR$/../shop-manager/shop-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-manager/shop-manager-dao/shop-manager-dao.iml" filepath="$PROJECT_DIR$/../shop-manager/shop-manager-dao/shop-manager-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-manager/shop-manager-interface/shop-manager-interface.iml" filepath="$PROJECT_DIR$/../shop-manager/shop-manager-interface/shop-manager-interface.iml" />
@@ -10,6 +12,19 @@
       <module fileurl="file://$PROJECT_DIR$/../shop-manager/shop-manager-service/shop-manager-service.iml" filepath="$PROJECT_DIR$/../shop-manager/shop-manager-service/shop-manager-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-manager/shop-manager-web/shop-manager-web.iml" filepath="$PROJECT_DIR$/../shop-manager/shop-manager-web/shop-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/shop-parent.iml" filepath="$PROJECT_DIR$/shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-dao/shop-portal-dao.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-dao/shop-portal-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-interface/shop-portal-interface.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-interface/shop-portal-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-pojo/shop-portal-pojo.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-pojo/shop-portal-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-service/shop-portal-service.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-service/shop-portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-web/shop-portal-web.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-web/shop-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-provide/shop-provide.iml" filepath="$PROJECT_DIR$/../shop-provide/shop-provide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search-dao/shop-search-dao.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search-dao/shop-search-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search-interface/shop-search-interface.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search-interface/shop-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search-pojo/shop-search-pojo.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search-pojo/shop-search-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search-service/shop-search-service.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search-service/shop-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search-web/shop-search-web.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search-web/shop-search-web.iml" />
     </modules>
   </component>
 </project>

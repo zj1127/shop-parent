@@ -11,6 +11,11 @@
     <modules>
         <module>../shop-commons</module>
         <module>../shop-manager</module>
+        <module>../shop-portal</module>
+        <module>../shop-search</module>
+        <module>../shop-provide</module>
+        <module>../shop-consumer</module>
+        <module>../shop-freemaker</module>
     </modules>
 
     <!--版本号的统一管理-->
@@ -52,11 +57,18 @@
         <lucene.version>4.10.3</lucene.version>
         <IKAnalyzer.version>2012FF_u1</IKAnalyzer.version>
         <shiro.version>1.3.2</shiro.version>
+        <fastdfs.version>1.27-SNAPSHOT</fastdfs.version>
     </properties>
     <!--依赖的声明，不会直接显示在面板的依赖上-->
     <!--依赖的统一管理声明-->
     <dependencyManagement>
         <dependencies>
+            <!--fastdfs文件上传下载-->
+            <dependency>
+                <groupId>org.csource</groupId>
+                <artifactId>fastdfs-client-java</artifactId>
+                <version>${fastdfs.version}</version>
+            </dependency>
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-core</artifactId>
