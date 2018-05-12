@@ -19,6 +19,7 @@
         <module name="shop-portal-pojo" />
         <module name="shop-portal-service" />
         <module name="shop-portal-web" />
+        <module name="shop-product-web" />
         <module name="shop-provide" />
         <module name="shop-search-dao" />
         <module name="shop-search-interface" />
@@ -44,6 +45,7 @@
       <module name="shop-portal-pojo" target="1.8" />
       <module name="shop-portal-service" target="1.8" />
       <module name="shop-portal-web" target="1.8" />
+      <module name="shop-product-web" target="1.8" />
       <module name="shop-provide" target="1.8" />
       <module name="shop-provider" target="1.8" />
       <module name="shop-search" target="1.8" />

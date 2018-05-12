@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-pojo/shop-portal-pojo.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-pojo/shop-portal-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-service/shop-portal-service.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-service/shop-portal-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-portal/shop-portal-web/shop-portal-web.iml" filepath="$PROJECT_DIR$/../shop-portal/shop-portal-web/shop-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shop-product-web/shop-product-web.iml" filepath="$PROJECT_DIR$/../shop-product-web/shop-product-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-provide/shop-provide.iml" filepath="$PROJECT_DIR$/../shop-provide/shop-provide.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/../shop-search/shop-search-dao/shop-search-dao.iml" filepath="$PROJECT_DIR$/../shop-search/shop-search-dao/shop-search-dao.iml" />

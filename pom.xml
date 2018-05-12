@@ -16,6 +16,7 @@
         <module>../shop-provide</module>
         <module>../shop-consumer</module>
         <module>../shop-freemaker</module>
+        <module>../shop-product-web</module>
     </modules>
 
     <!--版本号的统一管理-->

@@ -17,8 +17,8 @@
     <file url="file://$PROJECT_DIR$/../shop-portal/shop-portal-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shop-portal/shop-portal-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shop-portal/shop-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../shop-product-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shop-provide" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../shop-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shop-search" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shop-search/shop-search-dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../shop-search/shop-search-interface" charset="UTF-8" />
